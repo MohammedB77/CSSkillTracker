@@ -11,3 +11,18 @@ Job Skills Tracker is an AI-powered web application that helps Computer Science 
 - **Technology Stack** — Explore the programming languages, frameworks, libraries, and tools commonly used in your target role.
 - **Certification Guidance** — Find industry-recognized certifications that support your professional growth.
 - **Market Insights** — Explore up-to-date job market trends and hiring requirements for your selected career.
+
+## Technology Stack
+
+| Layer | Technology | Version |
+|-------|------------|---------|
+| UI | | |
+| Backend | | |
+| Language | | |
+| AI Model | | |
+| LLM Provider | | |
+| Web Scraping | | |
+| Database | | |
+| Version Control | | |
+| Deployment | | |
+
